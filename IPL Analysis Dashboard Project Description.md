@@ -5,7 +5,7 @@ IPL Analysis Dashboard🏏🏟️🏆
 
 📈 Project Overview:
 
-The IPL Analysis Dashboard with Power BI aims to provide cricket enthusiasts, analysts, and fans with a dynamic and visually compelling platform to analyze and explore various facets of the Indian Premier League. Leveraging the capabilities of Power BI, this dashboard will offer interactive data visualizations, live updates, and insightful analytics for a comprehensive understanding of the IPL tournament.
+The IPL Analysis Dashboard with Power BI aims to provide cricket enthusiasts, analysts, and fans with a dynamic and visually compelling platform to analyze and explore various facets of the Indian Premier League. Leveraging the capabilities of Power BI, this dashboard will offer interactive data visualizations and insightful analytics for a comprehensive understanding of the IPL tournament.
 
 🛠️ Key Features:
 
